@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|c:\\users\\main\\documents\\benilde class files\\sofsec1\\sofsec1_tcs2_project_albano-ferrer-flordeliza-natividad-yu\\gradecalculator\\gradecalculator\\login_signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|solutionrelative:gradecalculator\\login_signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|c:\\users\\main\\documents\\benilde class files\\sofsec1\\sofsec1_tcs2_project_albano-ferrer-flordeliza-natividad-yu\\gradecalculator\\gradecalculator\\login_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|solutionrelative:gradecalculator\\login_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|c:\\users\\main\\documents\\benilde class files\\sofsec1\\sofsec1_tcs2_project_albano-ferrer-flordeliza-natividad-yu\\gradecalculator\\gradecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|solutionrelative:gradecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|c:\\users\\main\\documents\\benilde class files\\sofsec1\\sofsec1_tcs2_project_albano-ferrer-flordeliza-natividad-yu\\gradecalculator\\gradecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|solutionrelative:gradecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|c:\\users\\main\\documents\\benilde class files\\sofsec1\\sofsec1_tcs2_project_albano-ferrer-flordeliza-natividad-yu\\gradecalculator\\gradecalculator\\login_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC79D9BE-0F12-44DC-AE67-0DCECDAFD0E0}|GradeCalculator\\GradeCalculator.csproj|solutionrelative:gradecalculator\\login_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +38,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "GradeCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Program.cs",
+              "RelativeToolTip": "GradeCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:54:25.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login_Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Login_Signup.cs",
+              "RelativeDocumentMoniker": "GradeCalculator\\Login_Signup.cs",
+              "ToolTip": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Login_Signup.cs [Design]",
+              "RelativeToolTip": "GradeCalculator\\Login_Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:50:52.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login_Signup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Login_Signup.Designer.cs",
+              "RelativeDocumentMoniker": "GradeCalculator\\Login_Signup.Designer.cs",
+              "ToolTip": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Login_Signup.Designer.cs",
+              "RelativeToolTip": "GradeCalculator\\Login_Signup.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:45:38.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login_Signup.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Login_Signup.cs",
+              "RelativeDocumentMoniker": "GradeCalculator\\Login_Signup.cs",
+              "ToolTip": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Login_Signup.cs",
+              "RelativeToolTip": "GradeCalculator\\Login_Signup.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:42:27.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Main\\Documents\\Benilde class files\\SOFSEC1\\SOFSEC1_TCS2_Project_Albano-Ferrer-Flordeliza-Natividad-Yu\\GradeCalculator\\GradeCalculator\\Form1.cs",
               "RelativeDocumentMoniker": "GradeCalculator\\Form1.cs",
