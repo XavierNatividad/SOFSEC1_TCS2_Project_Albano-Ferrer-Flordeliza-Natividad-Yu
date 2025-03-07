@@ -4,7 +4,7 @@ remote - github repository
 local - repository on your computer
 
 -----------------------------------------------------------------
-Creating a local repository: //for reference purposes only
+Creating a local repository: 
 1. Create folder where you want the repository to be
 2. either right click and run git bash inside the folder/use cd to navagiate to the folder/copy the path of the folder
 
