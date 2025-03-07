@@ -1,0 +1,84 @@
+Terms:
+directory - folder
+remote - github repository
+local - repository on your computer
+
+-----------------------------------------------------------------
+Creating a local repository: //for reference purposes only
+1. Create folder where you want the repository to be
+2. either right click and run git bash inside the folder/use cd to navagiate to the folder/copy the path of the folder
+
+Run the following command for the following choices:
+
+  //right-click and run git bash:
+    git init
+  
+  //use cd to navigate:
+    cd <folder path here>
+    git init
+  
+  //copy the path of the folder:
+    git <folder path here>
+-----------------------------------------------------------------
+Cloning an existing repository: //use this to create local branch of github repository
+
+//creates a local copy of the github repository on your pc:
+  git clone <github repository url>
+
+//adds the github repository as a remote branch named 'origin':
+  git remote add origin <github remote repository url>
+-----------------------------------------------------------------
+Saving progress made on local branch:
+
+//add changes to staging area:
+  git add <file/directory name>
+
+//save changes stored in staging area:
+  git commit
+
+//undo git add:
+  git reset
+-----------------------------------------------------------------
+Temporarily storing changes made (to work on something else in the meantime):
+
+//stashes wont save files that have not yet been staged with git add
+//stashes are not part of pushes or version history
+//multiple stashes can be created
+
+//Storing changes to stash:
+  git stash save "meaningful title/annotation'
+
+//Apply stashed changes back to working copy while keeping it stash:
+  git stash apply
+
+// view list of stashes
+  git stash list
+
+  // output:
+  // stash@{0}: 
+  // stash@{1}: 
+  // stash@{2}: 
+
+    //stashes are identified by the number inside the {}
+
+//Apply stashed changes back to working copy and DELETING it from stash afterwards:
+  Most recently created stash:
+    git stash pop
+
+  Specific stash:
+    git stash pop stash@{stash_number}
+
+// view list of stashes
+  git stash list
+
+//view summary of stash
+  git stash show stash@{stash_number}
+-----------------------------------------------------------------
+Viewing changes made in remote repository and building off of them:
+
+
+git fetch --all
+git checkout main
+
+
+Switching branches
